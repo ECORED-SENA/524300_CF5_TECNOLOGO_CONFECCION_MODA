@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84.054" height="89.243" viewBox="0 0 84.054 89.243">
+  <g id="Light_bulb" data-name="Light bulb" transform="translate(-192.558 -8224.88)">
+    <path id="Trazado_2559" data-name="Trazado 2559" d="M252.854,8283.166a26.93,26.93,0,1,0-39.25-.237,26.884,26.884,0,0,1,7.384,18.23v.219l-.46-.072a12.812,12.812,0,0,0,25.623,0l-.459.072v-.222a26.1,26.1,0,0,1,7.162-17.989Z" fill="#fceaca"/>
+    <path id="Trazado_2560" data-name="Trazado 2560" d="M243.892,8265.862c3.43,4.944,1.062,12.475-9.484,16.559a3,3,0,0,1-2.132,0c-10.542-4.08-12.911-11.614-9.488-16.559,2.187-3.153,8.493-3.843,10.554.079C235.409,8262.02,241.714,8262.709,243.892,8265.862Z" fill="#fc7b6d"/>
+    <g id="Grupo_8378" data-name="Grupo 8378">
+      <circle id="Elipse_30" data-name="Elipse 30" cx="2.699" cy="2.699" r="2.699" transform="translate(220.645 8224.88)" fill="#ffcf6e"/>
+      <circle id="Elipse_31" data-name="Elipse 31" cx="2.699" cy="2.699" r="2.699" transform="translate(252.298 8229.169)" fill="#ffcf6e"/>
+      <circle id="Elipse_32" data-name="Elipse 32" cx="2.699" cy="2.699" r="2.699" transform="translate(262.438 8281.396)" fill="#ffcf6e"/>
+      <circle id="Elipse_33" data-name="Elipse 33" cx="2.699" cy="2.699" r="2.699" transform="translate(192.558 8276.13)" fill="#ffcf6e"/>
+      <circle id="Elipse_34" data-name="Elipse 34" cx="4.387" cy="4.387" r="4.387" transform="translate(267.837 8253.362)" fill="#ffcf6e"/>
+      <circle id="Elipse_35" data-name="Elipse 35" cx="4.387" cy="4.387" r="4.387" transform="translate(193.248 8246.165)" fill="#ffcf6e"/>
+    </g>
+    <path id="Trazado_2561" data-name="Trazado 2561" d="M233.34,8304.424a.989.989,0,0,1-.99-.99v-12.62a.99.99,0,1,1,1.98,0v12.62a.99.99,0,0,1-.99.99Z" fill="#874155"/>
+    <path id="Trazado_2562" data-name="Trazado 2562" d="M245.808,8301.378l.46-.072a12.812,12.812,0,1,1-25.623.011v-.011l.459.072A38.2,38.2,0,0,0,245.808,8301.378Z" fill="#26918e"/>
+    <circle id="Elipse_36" data-name="Elipse 36" cx="1.012" cy="1.012" r="1.012" transform="translate(232.328 8286.198)" fill="#874155"/>
+  </g>
+</svg>
